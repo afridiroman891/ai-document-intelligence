@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.0
+scikit-learn>=1.3
+joblib>=1.3
+pypdf>=4.0
+PyMupdf>=1.24
+Pillow>=10.0
+pytesseract>=0.3.10
+python-dateutil>=2.8
